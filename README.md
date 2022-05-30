@@ -1,5 +1,3 @@
 # Login Screen with Glassmorpishm Effect and Blobs
 
-
-
-![ss](https://raw.githubusercontent.com/memetsumer/LoginScreen/master/ss.png) 
+<img src="https://raw.githubusercontent.com/memetsumer/LoginScreen/master/ss.png" width=30% height=30%>
